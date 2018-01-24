@@ -1,0 +1,103 @@
+.navbar{
+	box-shadow: 2px 2px 5px #3292a6;
+	opacity: 0.6;
+	background: #ffffff;
+/*	 position: fixed;
+    top: 0; 
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;*/
+}
+.nav-item{
+	font-size: 1.2rem;
+	padding-right: 20px;
+}
+
+
+#showcase{
+	position:relative;
+	background-image: url('../img/pexels-photo-355482.jpeg');
+	min-height: 600px;
+	  height: 100%; 
+	  margin-top: 94px;
+	  /*opacity: 0.9;*/
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.primary-overlay{
+
+	background-color: rgba(50,146,166,0.2);
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;	
+}
+
+#ab{
+	width:300px;
+	background-color: #3292a6;
+	margin-left: 13px;
+}
+
+#sexy-color{
+	background-color: #3292a6;
+}
+
+#sexy-color2{
+	color: #3292a6;
+}
+
+.nav-item{
+	font-size: 1.2rem;
+	padding-right: 20px;
+}
+
+.info-header{
+	width: 50%;
+	margin: auto;
+	border-bottom: 1px #DDD solid;
+}
+
+#authors .fa{
+	font-size: 25px;
+	color: #fff;
+
+}
+
+#authors .card:hover{
+	background:#3292a6;
+	color: #fff;
+}
+
+#main-footer{
+	height: 300px;
+}
+
+#main-footer a{
+	color:white;
+}
+
+.hey{
+	background-color: #f2f2f2;
+}
+
+/*.text-center{
+	padding-top: 30px;
+}*/
+
+.k{
+	padding-bottom: 90px;
+	padding-top: 70px;
+}
+
+.hvr:hover{
+	background-color: #fff;
+}
